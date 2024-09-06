@@ -1,0 +1,40 @@
+2024-09-06T13:54:36.885536Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2024-09-06T13:54:36.885576Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:54:36.985787Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cache"), AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2024-09-06T13:54:36.985802Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:54:42.787364Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/MFs.iml.tmp"), AnchoredSystemPathBuf(".idea/MFs.iml~"), AnchoredSystemPathBuf(".idea"), AnchoredSystemPathBuf(".idea/modules.xml"), AnchoredSystemPathBuf(".idea/modules.xml.tmp"), AnchoredSystemPathBuf(".idea/modules.xml~"), AnchoredSystemPathBuf(".idea/MFs.iml")}
+2024-09-06T13:54:42.787408Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:54:42.887197Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/.gitignore")}
+2024-09-06T13:54:42.887210Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:54:42.986605Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/.gitignore"), AnchoredSystemPathBuf(".idea/.gitignore~")}
+2024-09-06T13:54:42.986677Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:55:29.186424Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json"), AnchoredSystemPathBuf("package.json~")}
+2024-09-06T13:55:29.186460Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-09-06T13:55:29.286507Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml.tmp"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2024-09-06T13:55:29.286526Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:56:00.386315Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/remote/package.json"), AnchoredSystemPathBuf("apps/remote/package.json~")}
+2024-09-06T13:56:00.386344Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("remote"), path: AnchoredSystemPathBuf("apps/remote") }}))
+2024-09-06T13:56:00.586770Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml~"), AnchoredSystemPathBuf(".idea/workspace.xml.tmp"), AnchoredSystemPathBuf(".idea/workspace.xml")}
+2024-09-06T13:56:00.586794Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:56:06.485884Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/remote/package.json"), AnchoredSystemPathBuf("apps/remote/package.json~")}
+2024-09-06T13:56:06.485906Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("remote"), path: AnchoredSystemPathBuf("apps/remote") }}))
+2024-09-06T13:56:06.686565Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml~"), AnchoredSystemPathBuf(".idea/workspace.xml.tmp"), AnchoredSystemPathBuf(".idea/workspace.xml")}
+2024-09-06T13:56:06.686585Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:56:19.885807Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/host/package.json"), AnchoredSystemPathBuf("apps/host/package.json~")}
+2024-09-06T13:56:19.885824Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("host"), path: AnchoredSystemPathBuf("apps/host") }}))
+2024-09-06T13:56:20.085583Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml.tmp"), AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2024-09-06T13:56:20.085597Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:56:34.085810Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/app/package.json~"), AnchoredSystemPathBuf("apps/app/package.json")}
+2024-09-06T13:56:34.085824Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("app"), path: AnchoredSystemPathBuf("apps/app") }}))
+2024-09-06T13:56:34.285700Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml~"), AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml.tmp")}
+2024-09-06T13:56:34.285718Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:56:41.485485Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2024-09-06T13:56:41.485498Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:56:50.386517Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/vcs.xml.tmp"), AnchoredSystemPathBuf(".idea/vcs.xml~"), AnchoredSystemPathBuf(".idea/vcs.xml")}
+2024-09-06T13:56:50.386562Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:57:09.585572Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2024-09-06T13:57:09.585586Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:57:14.486290Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore"), AnchoredSystemPathBuf(".gitignore~")}
+2024-09-06T13:57:14.486305Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-06T13:57:14.684982Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".idea/workspace.xml"), AnchoredSystemPathBuf(".idea/workspace.xml.tmp"), AnchoredSystemPathBuf(".idea/workspace.xml~")}
+2024-09-06T13:57:14.684997Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
